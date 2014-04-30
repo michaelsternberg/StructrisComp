@@ -7,6 +7,7 @@ The differences are:
   * Simple score added (1 point per row cleared - no bonus opportunities).
   * Play can progress beyond level 10 - your blip becomes less visible with every 10-level wave completed.
   * Removed (R)estart option.
+  * Used updated SLAMMER code - previous version may crash on unenhanced Apple IIe's
 
 Martin's original version of Structris is available at
 [https://bitbucket.org/martin.haye/structris/downloads](https://bitbucket.org/martin.haye/structris/downloads)
