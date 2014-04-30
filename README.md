@@ -8,5 +8,5 @@ The differences are:
   * Play can progress beyond level 10 - your blip becomes less visible with every 10-level wave completed.
   * Removed (R)estart option.
 
-The Martin's original version of Structris is available at
-https://bitbucket.org/martin.haye/structris/downloads
+Martin's original version of Structris is available at
+[https://bitbucket.org/martin.haye/structris/downloads](https://bitbucket.org/martin.haye/structris/downloads)
