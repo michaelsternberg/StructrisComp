@@ -12,4 +12,4 @@ The differences are:
 Martin's original version of Structris is available at
 [https://bitbucket.org/martin.haye/structris/downloads](https://bitbucket.org/martin.haye/structris/downloads)
 
-Note: For the purpose of the Kansasfest tournament, an additional command alongside (N)ew and (Q)uit was added to provide a shortcut to level 5. This was used during seeding to minimize the player's time commitment to set a score. The version shared here has that feature disabled. If a player starts at level 5 and completes level 10, the Tetris-esque well for level 11 is not drawn correctly and causes the program to end abnormally.
+Note: For the purpose of the Kansasfest tournament, an additional command alongside (N)ew and (Q)uit was added to provide a shortcut to level 5. This was used during seeding to minimize the player's time commitment to set a score. The version shared here has that feature disabled. Otherwise, if a player starts at level 5 and completes level 10, the Tetris-esque well for level 11 is not drawn correctly and causes the program to end abnormally. I'd rather disable it than find out what the deal is. :)
